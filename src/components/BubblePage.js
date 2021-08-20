@@ -1,5 +1,4 @@
-  import React, { useEffect, useState } from "react";
-
+import React, { useEffect, useState } from "react";
 import Bubbles from "./Bubbles";
 import ColorList from "./ColorList";
 import fetchColorService from "../services/fetchColorService";
